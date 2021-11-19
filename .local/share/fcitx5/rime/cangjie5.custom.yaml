@@ -1,0 +1,4 @@
+patch:
+  translator/enable_sentence: false #关闭连打
+  abc_segmentor/extra_tags: {} # 关闭仓颉和拼音混打,敲`后可打拼音
+  
